@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodganar&label=Profile%20views&color=0e75b6&style=flat" alt="pramodganar" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/pramodganar](https://www.novypro.com/profile_projects/pramodganar)
-
 - 💬 Ask me about **Business Intelligence | Data Visualization | Excel | Power BI | SQL | Data Modeling | DAX | ETL Talks about #sql, #powerbi, #dataanalytics, #microsoftexcel, and #businessintelligence**
 
 - 📫 How to reach me **pramodrganar@gmail.com**
