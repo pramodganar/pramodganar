@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodganar&label=Profile%20views&color=0e75b6&style=flat" alt="pramodganar" /> </p>
 
-- 💬 Ask me about **Business Intelligence | Data Visualization | Excel | Power BI | SQL | Data Modeling | DAX | ETL Talks about #sql, #powerbi, #dataanalytics, #microsoftexcel, and #businessintelligence**
+- 💬 Ask me about **Business Intelligence | Data Visualization | Excel | Python | SQL | Data Modeling | DAX | ETL Talks about #sql, #powerbi, #dataanalytics, #microsoftexcel, and #businessintelligence**
 
 - 📫 How to reach me **pramodrganar@gmail.com**
 
